@@ -12,7 +12,7 @@
 <p align="left" >
 Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </p>
-<a href="https://www.pngegg.com/pt/png-yeony" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5521965170368" target="_blank">
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px" height="48px">
 </a>
 <p align="left" >
